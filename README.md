@@ -141,7 +141,7 @@ Printing out the data from a file is fantastic! But, ultimately, it probably mak
 4. 
 ```sql
 CREATE TABLE members (
-    id integer NOT NULL,
+    id SERIAL,
     first_name varchar(24),
     last_name varchar(24),
     age integer,
