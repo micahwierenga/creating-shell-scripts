@@ -241,4 +241,4 @@ You've now taken data from a file and written it to a database!
 
 ## Other Programming languages
 
-As mentioned before, writing shell scripts can be done in just about every programming language. For example, if you'd like to create one in JavaScript, you can use the `process.argv` variable and you don't even need to import anything.
+As mentioned before, writing shell scripts can be done in just about every programming language. For example, if you'd like to create one in JavaScript, you can use the `process.argv` variable and you don't even need to import any libraries or packages.
